@@ -27,6 +27,6 @@ If applicable, add screenshots to help explain your problem. For non-graphical i
  - Go version: [e.g. 1.18]
  - OpenAI API version: [e.g. v1]
  - OS: [e.g. Ubuntu 20.04]
-
+A clear and concise description of what you expected to happen.
 **Additional context**
 Add any other context about the problem here.
